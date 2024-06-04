@@ -61,6 +61,8 @@ pip install requests
 - Ensure that you have appropriate permissions to access the SMTP server and send emails.
 - To ensure the email is sent every day, you can use a task scheduler.
 
-
+**APIs Used:**
+- [WordsAPI](https://rapidapi.com/dpventures/api/wordsapi)
+- [Free Dictionary API](https://dictionaryapi.dev/)
 
 Happy learning with the Word of The Day!
